@@ -141,11 +141,8 @@ img[alt="Insurance"]{
 .gallery{
     margin-top: 70px;
     margin: auto;
-    width: 100%;
+    width: 1217px;
     height: 500px;
-}
-.cont{
-    margin: auto;
 }
 .vid{
     border-radius: 9%;
