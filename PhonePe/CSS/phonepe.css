@@ -141,6 +141,8 @@ img[alt="Insurance"]{
 .gallery{
     margin-top: 20px;
     display: flex;
+    margin: auto;
+    padding: auto;
     height: 500px;
 }
 .vid{
